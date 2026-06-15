@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Ali%20Andaç%20Erdaş&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Header Wave" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:8B5CF6,100:D946EF&height=200&section=header&text=Ali%20Andaç%20Erdaş&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Header Wave" />
 <a href="https://github.com/aliandacerdass">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Machine+Learning+Student;Flutter+%26+Mobile+App+Developer;Open+Source+Enthusiast;Let's+build+something+great+together!&font=Fira+Code&center=true&width=600&height=50&color=4F46E5&vCenter=true&pause=1500&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Machine+Learning+Student;Flutter+%26+Mobile+App+Developer;Open+Source+Enthusiast;Adapting,+learning,+and+creating.&font=Fira+Code&center=true&width=600&height=50&color=8B5CF6&vCenter=true&pause=1500&size=22" alt="Typing SVG" />
 </a>
 </div>
 
@@ -170,7 +170,7 @@ I am a passionate **Computer Engineering student** at **Bursa Technical Universi
 
 <div align="center">
 
-### *Dreams come true when you work for them.*
+### *"Intelligence is the ability to adapt to change." — Stephen Hawking*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=100&section=footer" alt="Footer Wave" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:D946EF,100:8B5CF6&height=100&section=footer" alt="Footer Wave" />
 </div>
