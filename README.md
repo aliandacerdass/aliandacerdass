@@ -170,7 +170,7 @@ I am a passionate **Computer Engineering student** at **Bursa Technical Universi
 
 <div align="center">
 
-### *"Intelligence is the ability to adapt to change." — Stephen Hawking*
+### *Small steps every day.*
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:D946EF,100:8B5CF6&height=100&section=footer" alt="Footer Wave" />
 </div>
