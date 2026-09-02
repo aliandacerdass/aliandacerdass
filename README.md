@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:8B5CF6,100:D946EF&height=200&section=header&text=Ali%20Andaç%20Erdaş&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Header Wave" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:8B5CF6,100:D946EF&height=200&section=header&text=Ali%20Anda%C3%A7%20Erda%C5%9F&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Header Wave" />
 <a href="https://github.com/aliandacerdass">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Machine+Learning+Student;Flutter+%26+Mobile+App+Developer;Open+Source+Enthusiast;Adapting,+learning,+and+creating.&font=Fira+Code&center=true&width=600&height=50&color=8B5CF6&vCenter=true&pause=1500&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Machine+Learning+Engineering+Student;Industrial+Engineering+Double+Major;Flutter+%26+Mobile+App+Developer;Optimization,+Algorithms,+Intelligent+Systems&font=Fira+Code&center=true&width=650&height=50&color=8B5CF6&vCenter=true&pause=1500&size=22" alt="Typing SVG" />
 </a>
 </div>
 
@@ -9,12 +9,16 @@
 
 ## 🚀 About Me
 
-I am a passionate **Computer Engineering student** at **Bursa Technical University (BTU)**, specializing in **Artificial Intelligence, Machine Learning, and Mobile Application Development**. I love combining math and algorithms to build intelligent systems, optimized route planners, and highly responsive user interfaces. 
+I'm an **Artificial Intelligence & Machine Learning Engineering** student at **Bursa Technical University (BTÜ)**, doing a **double major in Industrial Engineering**.
 
-* 🎓 **Education:** Computer Engineering at Bursa Technical University (BTU)
-* 🧠 **Currently learning:** Advanced Deep Learning, Reinforcement Learning, and Computer Vision
-* 🛠️ **Current Focus:** Creating intelligent algorithms and full-stack Flutter applications
-* 🤝 **Collaboration:** I actively contribute to open-source student archives and community projects
+That combination is the whole point: AI gives me the models, Industrial Engineering gives me the systems they run inside. I build things that sit at the intersection — optimized route planners, decision-support tools, and mobile apps that people actually use.
+
+* 🎓 **Major:** Artificial Intelligence & Machine Learning Engineering — BTÜ
+* 🏭 **Double Major (ÇAP):** Industrial Engineering — BTÜ
+* 🧠 **Currently learning:** Deep Learning, Reinforcement Learning, Computer Vision, Operations Research
+* 🛠️ **Current focus:** Intelligent algorithms, optimization pipelines, and full-stack Flutter applications
+* 🤝 **Collaboration:** Open-source student archives and community projects
+* 📫 **Reach me:** [aliandacerdass@gmail.com](mailto:aliandacerdass@gmail.com)
 
 ---
 
@@ -27,6 +31,7 @@ I am a passionate **Computer Engineering student** at **Bursa Technical Universi
 ### Focus Areas
 - 🧠 **Artificial Intelligence** & Deep Learning
 - 📈 **Machine Learning** & Data Science
+- 🏭 **Industrial Engineering** & Operations Research
 - 🛰️ **Path Planning** & Optimization Algorithms
 - 📱 **Mobile App Development** (Flutter/Dart)
 - 🌐 **Backend Development** (FastAPI/Node.js)
@@ -41,6 +46,28 @@ I am a passionate **Computer Engineering student** at **Bursa Technical Universi
 </td>
 </tr>
 </table>
+
+---
+
+## 🏭 Industrial Engineering Side
+
+The part of my toolkit that turns a model into a decision.
+
+<p>
+  <img src="https://img.shields.io/badge/Operations_Research-1F6F8B?style=for-the-badge" alt="Operations Research" />
+  <img src="https://img.shields.io/badge/Linear_Programming-2E8B57?style=for-the-badge" alt="Linear Programming" />
+  <img src="https://img.shields.io/badge/Optimization-8B5CF6?style=for-the-badge" alt="Optimization" />
+  <img src="https://img.shields.io/badge/Simulation-B22222?style=for-the-badge" alt="Simulation" />
+  <img src="https://img.shields.io/badge/Statistics-4B0082?style=for-the-badge" alt="Statistics" />
+</p>
+
+- **Operations Research** — linear/integer programming, modeling decision problems as solvable systems
+- **Optimization & Heuristics** — cost/risk trade-offs, multi-objective search, A\*-based routing
+- **Production & Process Systems** — planning, scheduling, capacity and bottleneck analysis
+- **Quality & Statistics** — experiment design, statistical process control, data-driven decisions
+- **Supply Chain & Logistics** — inventory models, transportation and routing problems
+
+> Why it matters for my AI work: a model that predicts is only half the job — the other half is choosing what to *do* with the prediction under real constraints.
 
 ---
 
@@ -91,34 +118,34 @@ I am a passionate **Computer Engineering student** at **Bursa Technical Universi
   <tr>
     <td>
       <a href="https://github.com/aliandacerdass/TUA-Astro-Hackathon">
-        <strong>🛰️ Lunar Route Optimization (TUA Astro Hackathon)</strong>
+        <strong>🛰️ Lunar Route Optimization — TUA Astro Hackathon</strong>
       </a>
       <br />
-      Developed a real-DEM-based, multi-objective A* navigation pipeline for lunar rover route planning under the Turkish Space Agency (TUA) Hackathon. Combines elevation data with slope safety, regolith friction risk, and shadow/thermal risks.
+      A real-DEM-based, multi-objective A* navigation pipeline for lunar rover route planning, built for the Turkish Space Agency (TUA) Hackathon. Combines elevation data with slope safety, regolith friction risk, and shadow/thermal risk into a single cost function — an operations-research problem wearing a space suit.
       <br />
-      <sub><strong>Tech Stack:</strong> Python, A* Search Algorithm, GeoTIFF, DEM, MATLAB</sub>
+      <sub><strong>Stack:</strong> Python · A* Search · GeoTIFF / DEM · MATLAB · Multi-Objective Optimization</sub>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/aliandacerdass/Eventify">
-        <strong>📱 Etkinlix (Eventify)</strong>
+        <strong>📱 Eventify (Etkinlix)</strong>
       </a>
       <br />
-      A premium, next-generation Event Discovery and Socialization mobile platform focusing on Bursa. Features interactive event mapping, custom category filtering, event attendee chat rooms, and a dark/light mode toggle with Indigo & Violet branding.
+      A next-generation event discovery and socialization platform focused on Bursa. Interactive event mapping, category filtering, attendee chat rooms, and a dark/light theme built on Indigo & Violet branding.
       <br />
-      <sub><strong>Tech Stack:</strong> Flutter, Dart, FastAPI, Playwright (Web Scraper), SQLite</sub>
+      <sub><strong>Stack:</strong> Flutter · Dart · FastAPI · Playwright (scraper) · SQLite</sub>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/aliandacerdass/SlimeSlayer">
-        <strong>🎮 SlimeSlayer (2D Pixel Survival Game)</strong>
+        <strong>🎮 SlimeSlayer — 2D Pixel Survival Game</strong>
       </a>
       <br />
-      A Vampire Survivors-like top-down survival game built from scratch using pure Java SE. Implemented custom 60 FPS game loop, sprite animation, camera movement, and a custom spatial-collision checking engine.
+      A Vampire-Survivors-like top-down survival game written from scratch in pure Java SE: custom 60 FPS game loop, sprite animation, camera movement, and a hand-rolled spatial collision engine.
       <br />
-      <sub><strong>Tech Stack:</strong> Java SE, Swing, AWT</sub>
+      <sub><strong>Stack:</strong> Java SE · Swing · AWT</sub>
     </td>
   </tr>
   <tr>
@@ -127,19 +154,26 @@ I am a passionate **Computer Engineering student** at **Bursa Technical Universi
         <strong>🤝 AI & ML Projects Archive</strong>
       </a>
       <br />
-      A collaborative open-source community library for Artificial Intelligence and Machine Learning students from different universities in Turkey. Contains notebooks, algorithms, and models.
+      A collaborative open-source library for AI and ML students across Turkish universities — notebooks, algorithms, and models in one place.
       <br />
-      <sub><strong>Tech Stack:</strong> Python, Jupyter Notebooks, Git / GitHub Community</sub>
+      <sub><strong>Stack:</strong> Python · Jupyter · Git / GitHub Community</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🎓 Academic Core & Coursework
-* **Yapay Zekaya Giriş (Introduction to AI)** — Fundamental search, prediction, and optimization algorithms.
-* **Algoritmalar & Proje (Algorithms & Analysis)** — Design paradigms, sorting/searching efficiency, and graph paths.
-* **Nesneye Yönelik Programlama (OOP)** — Java-based software design patterns, inheritance, polymorphism, and modular architectures.
+## 🎓 Academic Core
+
+**AI & Computing**
+* **Yapay Zekâya Giriş** — search, prediction, and optimization fundamentals
+* **Algoritmalar & Proje** — design paradigms, sorting/searching efficiency, graph paths
+* **Nesneye Yönelik Programlama** — Java design patterns, inheritance, polymorphism, modular architecture
+
+**Industrial Engineering**
+* **Yöneylem Araştırması (Operations Research)** — linear programming, network models, decision analysis
+* **Olasılık & İstatistik** — probability models, inference, statistical decision making
+* **Üretim Sistemleri & Mühendislik Ekonomisi** — production planning, cost and investment analysis
 
 ---
 
@@ -147,7 +181,7 @@ I am a passionate **Computer Engineering student** at **Bursa Technical Universi
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aliandacerdass&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliandacerdass&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=aliandacerdass&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </div>
 
 ---
