@@ -41,7 +41,7 @@ That combination is the whole point: AI gives me the models, Industrial Engineer
 <td valign="top" width="50%" align="center">
 
 ### Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliandacerdass&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aliandacerdass&theme=tokyonight" alt="Top Languages" width="100%" />
 
 </td>
 </tr>
@@ -180,8 +180,12 @@ The part of my toolkit that turns a model into a decision.
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliandacerdass&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=aliandacerdass&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=aliandacerdass&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
+  <br /><br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliandacerdass&theme=tokyonight" width="90%" alt="Profile Details" />
+  <br /><br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aliandacerdass&theme=tokyonight" width="48%" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aliandacerdass&theme=tokyonight&utcOffset=3" width="48%" alt="Productive Time" />
 </div>
 
 ---
