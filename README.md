@@ -180,7 +180,11 @@ The part of my toolkit that turns a model into a decision.
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=aliandacerdass&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aliandacerdass/aliandacerdass/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aliandacerdass/aliandacerdass/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/aliandacerdass/aliandacerdass/output/snake.svg" width="100%" alt="Contribution Snake" />
+  </picture>
   <br /><br />
   <img src="https://img.shields.io/github/followers/aliandacerdass?style=for-the-badge&logo=github&logoColor=white&color=8B5CF6&labelColor=1A1B27" alt="Followers" />
   <img src="https://img.shields.io/github/stars/aliandacerdass?style=for-the-badge&logo=github&logoColor=white&color=D946EF&labelColor=1A1B27" alt="Stars" />
