@@ -182,10 +182,9 @@ The part of my toolkit that turns a model into a decision.
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=aliandacerdass&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
   <br /><br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliandacerdass&theme=tokyonight" width="90%" alt="Profile Details" />
-  <br /><br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aliandacerdass&theme=tokyonight" width="48%" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aliandacerdass&theme=tokyonight&utcOffset=3" width="48%" alt="Productive Time" />
+  <img src="https://img.shields.io/github/followers/aliandacerdass?style=for-the-badge&logo=github&logoColor=white&color=8B5CF6&labelColor=1A1B27" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/aliandacerdass?style=for-the-badge&logo=github&logoColor=white&color=D946EF&labelColor=1A1B27" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=aliandacerdass&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 ---
